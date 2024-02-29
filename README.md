@@ -10,6 +10,9 @@ The output is in the form of webpage which is designed using streamlit module. T
 ![Screenshot (69)](https://github.com/sachin-0502/movie_recommendation/assets/144464445/b2cbc429-973f-4a16-9795-6ce316e13b10)
 
 Thus, we can get the recommendation of 10 similar movies to the input movies.
+### Tools and libraries used
+- Tools - Jupyter notebook, VS code
+- Libraries - numpy, pandas, pickle, streamlit
 
 ## Project Flow
 
